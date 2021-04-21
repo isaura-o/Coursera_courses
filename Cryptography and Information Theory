@@ -1,4 +1,0 @@
-Dice where 5 and 6 are a 5. information entropy when we throw 1 time the dice.
-pr[5] = 2/6 (1 bit)
-pr[1,2,3,4] = 1/6
-H = 2/6*log2(2/6) + 4*(1/6*log2(1/6))
